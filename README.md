@@ -16,10 +16,3 @@ kepler_name: [These names] are intended to clearly indicate a class of objects t
 koi_disposition: The disposition in the literature towards this exoplanet candidate. One of CANDIDATE, FALSE POSITIVE, NOT DISPOSITIONED or CONFIRMED.
 koi_pdisposition: The disposition Kepler data analysis has towards this exoplanet candidate. One of FALSE POSITIVE, NOT DISPOSITIONED, and CANDIDATE.
 koi_score: A value between 0 and 1 that indicates the confidence in the KOI disposition. For CANDIDATEs, a higher value indicates more confidence in its disposition, while for FALSE POSITIVEs, a higher value indicates less confidence in that disposition.
-
-Milestones: You need to state some of your milestones with dates for your projects, 
-this will help you to stay on routine.
-
-I want to have a better understanding of the data by February 12. Because there is a lot of data that I don’t fully understand yet.
-I want to have the data clean by February 20.
-I want to be able to apply algorithms efficiently by the beginning or middle of March.
