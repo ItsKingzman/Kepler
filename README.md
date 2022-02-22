@@ -6,9 +6,9 @@ Kepler had verified 1284 new exoplanets as of May 2016. As of October 2017, ther
 Motivation: What problem you are tackling? What application you can develop out 
 of it? And most importantly what is the target you want to achieve through this?
 
-The problem I am trying to solve is if a planet is CONFIRMED as a planet or a FALSE POSITIVE. If it is CONFIRMED, then what exactly makes it a planet? What attributes are required for that? What percentage of the planets are CONFIRMED and FALSE POSITIVES.
+The problem I am trying to solve is if a planet is CONFIRMED as a planet or a FALSE POSITIVE. If it is CONFIRMED, then what exactly makes it a planet? What attributes are required for that? What percentage of the planets are CONFIRMED, CANDIDATES, and/or FALSE POSITIVES.
 
-Data: You will discuss the data set? If it is pre-processed data or you need to acquire 
+Data: Information about the data set? If it is pre-processed data or you need to acquire 
 it through API/Crawling?
 
 My data is pre-processed. Some of the important attributes of the data are: kepoi_name: A KOI (KEPLER OBJECT OF INTEREST) is a target identified by the Kepler Project that displays at least one transit-like sequence within Kepler time-series photometry that appears to be of astrophysical origin and initially consistent with a planetary transit hypothesis
