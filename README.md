@@ -11,4 +11,4 @@ koi_score: A value between 0 and 1 that indicates the confidence in the KOI disp
 
 I was able to clean my data and I have a deeper understanding of it as well. I was able to implement logistic regression as well as k-means clustering. I struggled a little with the plotting of certain things. The names of the attributes were a little confusing so I changed them into something more readable and got rid of the ones with NaN values. Figuring out the correlation matrix was very tough and took me about 2 days to implement. I also made a histogram expressing what spectral classes the stars are in. I also created a scatterplot that shows the stellar surface gravity (stellar_surf_gravity) vs. stellar radius (stellar_radius), depicting each star in its color. I had fun creating a 3D scatterplot that shows the Gravity vs. Temperature vs. Radius. 
 
-For my next target, I want to try to find out which planets are habitable (Often called Goldilocks planets).
+For my final task, I was able to find planets that are habitable (Often called Goldilocks planets).
